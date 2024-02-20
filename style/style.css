@@ -67,21 +67,21 @@ body {
 
 .logo_figma {
     width: 150px;
-    margin-left: 72%;
+    margin-left: 82%;
     margin-top: -5%;
     position: absolute;
 }
 
 .logo_photoshop {
     width: 150px;
-    margin-left: 58%;
+    margin-left: 64%;
     margin-top: -5%;
     position: absolute;
 }
 
 .logo_html {
     width: 150px;
-    margin-left: 42%;
+    margin-left: 47%;
     margin-top: -5%;
     position: absolute;
 }
@@ -140,6 +140,7 @@ body {
 .apresentacao__links__navegacao {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 8px;
     background-color: var(--cor-secundaria);
     border-radius: 10px;
